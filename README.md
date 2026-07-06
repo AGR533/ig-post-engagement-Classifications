@@ -29,7 +29,7 @@ Predict whether an Instagram post will get **High** or **Low** engagement (likes
 ## Files
 
 - `instagramanalysis.ipynb` — full analysis notebook (EDA, cleaning, feature engineering, model training, evaluation)
-- `instagram_posts.csv` — raw dataset (70 real posts)
+- `instagram_posts.csv` — raw dataset (140 real posts)
 - `README.md` — this file
 
 ## Methodology
